@@ -62,6 +62,11 @@ The Power BI dashboard includes interactive visuals such as:
 
 - Tools and Languages: Popular programming languages and tools used in the data industry.
 
+
+[Dashboard]
+![Power BI Dashboard](https://github.com/user-attachments/assets/aa9f625d-1b77-4a92-8b8a-f94f3488a9fd)
+
+
 ### Key Insights
 
 1. A significant number of professionals transitioned into data roles from non-technical backgrounds.
